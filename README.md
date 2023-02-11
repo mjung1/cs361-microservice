@@ -18,3 +18,6 @@ The microservice will then erase the **num-service.txt** file, and print to it t
 `['omnidirectional']`
 
 As the end user, you will only need to read the text file after the game is first initiated.
+
+# UML Sequence Diagram
+![UML Sequence Diagram for Microservice](UML_Diagram_Random_Number_Generator.png)
